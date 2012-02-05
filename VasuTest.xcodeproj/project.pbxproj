@@ -29,7 +29,7 @@
 		5769500614DED03A008947D8 /* VasuTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = VasuTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5769500A14DED03A008947D8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5769500D14DED03A008947D8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		5769501014DED03A008947D8 /* VasuTest-Prefix.pch */ = {isa = PBXFileReference; path = "VasuTest-Prefix.pch"; sourceTree = "<group>"; };
+		5769501014DED03A008947D8 /* VasuTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "VasuTest-Prefix.pch"; sourceTree = "<group>"; };
 		5769501114DED03A008947D8 /* VasuTest.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = VasuTest.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
